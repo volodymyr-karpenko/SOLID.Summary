@@ -1,5 +1,5 @@
 # A Brief Summary of SOLID Principles 
-### (Based on the course created by Steve Smith - ardalis.com)
+## (based on the course created by Steve Smith - [ardalis.com](https://ardalis.com/))
 
 
 ## S*OLID - SRP - Single Responsibility Principle: Each software module should have one and only one reason to change.
